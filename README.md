@@ -16,9 +16,6 @@ This project is a submission for **Task 1** of the Web Development Internship at
 - CSS3
 - JavaScript (Vanilla)
 
-## 📸 Preview
-
-![Form Screenshot](image1.jpg)
 
 > Form includes fields for first name, last name, gender, date of birth, email, and password, along with a submit button that validates input.
 
